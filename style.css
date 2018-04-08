@@ -36,3 +36,9 @@ html body {
 .card {
     margin: auto;
 }
+
+.formularz {
+    margin: 30px auto;
+    background-color: white;
+    padding: 20px;
+}
