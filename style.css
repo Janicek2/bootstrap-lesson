@@ -38,7 +38,17 @@ html body {
 }
 
 .formularz {
-    margin: 30px auto;
     background-color: white;
+    padding: 50px;
+}
+
+.btn-1 {
+    display: inherit;
+    margin: auto;
+}
+
+.footer {
+    color: white;
+    text-align: center;
     padding: 20px;
 }
